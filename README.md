@@ -5,18 +5,13 @@
 ![xnxcode](https://user-images.githubusercontent.com/92802033/181095877-c5b0ce2f-5bc4-402e-8abb-b2828c4ec01f.png)
 
 ### Helo ngab, [WahyuXD]() is here
-### INI FOTMEK
 ![wahyuxd.jpg](https://user-images.githubusercontent.com/115902571/196156804-e2ea36e4-7ed7-4fec-a0a7-bf8ec9dbae45.jpg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Babay+Adik+Adik)](https://git.io/typing-svg)
-### Don't forget comeback to my account [WahyuKullBet]() Brother 
-
-### Hi there, I'm Satria Aluh Perwira Nusa 👋
 
 ### and here is my stats
 
   <img src="https://github-readme-stats.vercel.app/api?username=WahyuKullBet&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuKullBet&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuKullBet &layout=compact&theme=monokai&langs_count=12"/><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuKullBet&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
 <!--
