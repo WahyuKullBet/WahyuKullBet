@@ -10,7 +10,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Babay+Adik+Adik)](https://git.io/typing-svg)
 ### Don't forget comeback to my account [WahyuKullBet]() Brother 
 
+### Hi there, I'm Satria Aluh Perwira Nusa 👋
+
 ### and here is my stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=WahyuKullBet&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuKullBet&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuKullBet &layout=compact&theme=monokai&langs_count=12"/><br />
+</p>
+
 <!--
 **WahyuKullBet/WahyuKullBet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
