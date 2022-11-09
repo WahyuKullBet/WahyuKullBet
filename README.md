@@ -2,7 +2,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-itsmeewagyo__-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/itsmeewagyoo_/)](https://www.instagram.com/itsmeewagyoo_/) 
 [![WhatsApp Badge](https://img.shields.io/badge/-6281215812815-green?style=flat&logo=WhatsApp&logoColor=white&link=https://wa.me/6281215812815/)](https://wa.me/-6281215812815-green/) 
 [![Github Badge](https://img.shields.io/badge/-WahyuKullBet-black?style=flat&logo=Github&logoColor=white&link=https://github.com/WahyuKullBet/)](https://github.com/WahyuKullBet) 
-[![Tiktok Badge](https://img.shields.io/badge/-wagyo32-black?style=flat&logo=Tiktok&logoColor=white&link=https://www.tiktok.com/wagyo32/)](https://www.tiktok.com/wagyo32-black/) 
+[![Tiktok Badge](https://img.shields.io/badge/-mochwahyuxd.32-black?style=flat&logo=Tiktok&logoColor=white&link=https://www.tiktok.com/mochwahyuxd.32/)](https://www.tiktok.com/mochwahyuxd.32-black/) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Wahyu+XD+Don't+Forget+To+Follow+Anj)](https://git.io/typing-svg)
 
 ### XNXCODE [2021]() TOGETHER
