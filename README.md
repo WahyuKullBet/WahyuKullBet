@@ -1,4 +1,4 @@
-[![Github Badge](https://img.shields.io/badge/-WahyuKullBet-black?style=flat&logo=Github&logoColor=white&link=https://github.com/WahyuKullBet/)](https://github.com/WahyuKullBet)[![WhatsApp Badge](https://img.shields.io/badge/-6281215812815-green?style=flat&logo=WhatsApp&logoColor=white&link=https://wa.me/6281215812815/)](https://wa.me/-6281215812815-green/) 
+[![Github Badge](https://img.shields.io/badge/-WahyuKullBet-black?style=flat&logo=Github&logoColor=white&link=https://github.com/WahyuKullBet/)](https://github.com/WahyuKullBet)[![WhatsApp Badge](https://img.shields.io/badge/-12054356169-green?style=flat&logo=WhatsApp&logoColor=white&link=https://wa.me/12054356169/)](https://wa.me/-6281215812815-green/) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Wahyu+XD+Don't+Forget+To+Follow+Anj)](https://git.io/typing-svg)
 ***I am a user***
 
