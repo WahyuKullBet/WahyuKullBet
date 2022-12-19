@@ -1,6 +1,10 @@
 [![Github Badge](https://img.shields.io/badge/-WahyuKullBet-black?style=flat&logo=Github&logoColor=blue&link=https://github.com/WahyuKullBet/)](https://github.com/WahyuKullBet)[![WhatsApp Badge](https://img.shields.io/badge/-+6283132458199-black?style=flat&logo=WhatsApp&logoColor=pink&link=https://wa.me/6283132458199/)](https://wa.me/-6283132458199-green/) 
-[![Facebokm Badge](https://img.shields.io/badge/-MochWahyuDinAmbiaXD.-black?style=flat&logo=Facebook&.logoColor=pink&link=https://www.facebook.com/WaGyoXD/)](https://www.facebook.com/WaGyoXD)
+[![Facebokm Badge](https://img.shields.io/badge/-WaGyoXD-black?style=flat&logo=Facebook&.logoColor=pink&link=https://www.facebook.com/WaGyoXD/)](https://www.facebook.com/WaGyoXD)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Wahyu+XD+Don't+Forget+To+Follow+Anj)](https://git.io/typing-svg)
+#***Hello ngab, [WahyuXD]() is here***
+![IMG-20221219-WA0073~2](https://user-images.githubusercontent.com/115902571/208432603-40622335-4f1c-430d-aa68-20951d840276.jpg)
+
+
 >***Language***
 
 ![python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
